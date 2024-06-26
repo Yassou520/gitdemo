@@ -10,3 +10,4 @@ hello my friend! 123456
 hello my friend! master hot-fix test
 hello my friend! 1234567894565
 hello my friend! 1235555555556
+github test
